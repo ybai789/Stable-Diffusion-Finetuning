@@ -10,7 +10,7 @@ Additionally, metrics such as face distance and CLIP score are evaluated for the
 
 Below is an illustration of images generated after 1000 steps of finetuning.
 
-![generated](.\images\generated.png)
+<img src=".\images\generated.png" alt="generated" />
 
 ## Install packages
 
